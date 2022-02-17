@@ -12,18 +12,12 @@ https://assetstore.unity.com/
 
 Top free resources for learning:
 
-https://learn.unity.com/
-
+https://learn.unity.com
 https://learn.unity.com/pathway/unity-essentials
-
-https://brackeys.com/
-
-https://www.freecodecamp.org/news/tag/unity/
-
+https://brackeys.com
+https://www.freecodecamp.org/news/tag/unity
 https://learn.unity.com/project/roll-a-ball (beginner)
-
 https://learn.unity.com/project/tanks-tutorial (intermediate)
-
 https://learn.unity.com/projects
 
 <br>
