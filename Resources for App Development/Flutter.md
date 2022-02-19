@@ -17,6 +17,8 @@
 [Provider](https://pub.dev/documentation/provider/latest/)
 6. Flutter fire documentation is one of the best documentation from Flutter team if you want to integrate your app with firebase.<br>
 [Flutter-fire-docs](https://firebase.flutter.dev/docs/overview/)
-
+7. Deployment<br>
+[Release android app](https://docs.flutter.dev/deployment/android)<br>
+[Release IOS app](https://docs.flutter.dev/deployment/ios)
 ## BONUS
 [Udemy paid course for free](https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart)
