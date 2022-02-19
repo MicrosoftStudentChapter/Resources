@@ -2,9 +2,9 @@
 
 Downloads:
 
-https://store.unity.com/#plans-individual 
-https://unity.com/products/unity-student 
-https://assetstore.unity.com/ 
+https://store.unity.com/#plans-individual \
+https://unity.com/products/unity-student \
+https://assetstore.unity.com/ \ 
 
 <br>
 
@@ -12,13 +12,13 @@ https://assetstore.unity.com/
 
 Top free resources for learning:
 
-https://learn.unity.com\
-https://learn.unity.com/pathway/unity-essentials\
-https://brackeys.com\
-https://www.freecodecamp.org/news/tag/unity\
-https://learn.unity.com/project/roll-a-ball (beginner)\
-https://learn.unity.com/project/tanks-tutorial (intermediate)\
-https://learn.unity.com/projects\
+https://learn.unity.com \
+https://learn.unity.com/pathway/unity-essentials \
+https://brackeys.com \
+https://www.freecodecamp.org/news/tag/unity \
+https://learn.unity.com/project/roll-a-ball (beginner) \
+https://learn.unity.com/project/tanks-tutorial (intermediate) \
+https://learn.unity.com/projects \
 
 <br>
 
