@@ -2,9 +2,9 @@
 
 Downloads:
 
-https://store.unity.com/#plans-individual\
-https://unity.com/products/unity-student\
-https://assetstore.unity.com/\
+https://store.unity.com/#plans-individual 
+https://unity.com/products/unity-student 
+https://assetstore.unity.com/ 
 
 <br>
 
