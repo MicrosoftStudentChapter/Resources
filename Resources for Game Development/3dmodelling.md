@@ -4,7 +4,7 @@ https://www.mixamo.com/ \
 http://www.makehumancommunity.org/ \
 https://www.turbosquid.com/Search/3D-Models/free/humanoid \
 https://www.cgtrader.com/free-3d-models/humanoid \
-https://assetstore.unity.com/ \
+https://assetstore.unity.com/ 
 
 ## Blender:
 
