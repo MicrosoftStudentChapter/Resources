@@ -6,5 +6,5 @@
 3. Other nice websites you can refer:-<br>
 [Raywenderlich](https://www.raywenderlich.com/)<br>
 [Exercism](https://exercism.io/tracks/swift)
-4. Swift Docs[https://docs.swift.org/swift-book/index.html]
-5. Collection of all Swift Resources[https://developer.apple.com/swift/resources/]
+4. [Swift Docs](https://docs.swift.org/swift-book/index.html)
+5. [Collection of all Swift Resources](https://developer.apple.com/swift/resources/)
